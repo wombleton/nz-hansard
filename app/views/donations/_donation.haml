@@ -1,0 +1,23 @@
+- @donation = donation
+%td
+  - if donation.party
+    = donation.party.short
+  - else
+    = ''
+%td
+  - if donation.organisation
+    %b= donation.donor_name
+  - else
+    %b= link_to donation.donor_name, new_organisation_url(:name => donation.donor_name)
+  %br
+  = donation.donor_address.to_s
+%td= number_with_delimiter(donation.amount)
+%td
+  - if donation.organisation
+    = donation.organisation.name
+  - elsif @is_admin
+    - donation_id = "donation_#{donation.id}".to_sym
+    - form_id = "edit_donation_#{donation.id}".to_sym
+    - form_for(:donation, @donation, :html => {:id => form_id.to_s}) do |f|
+      = f.text_field :organisation_slug
+    = observe_form form_id, :url => 'donations/update/'+donation.id.to_s+'', :update => donation_id, :frequency => "0.25"

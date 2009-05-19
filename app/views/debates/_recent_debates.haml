@@ -1,0 +1,31 @@
+.recent_debates
+  .contentarea
+    - recent_debates.each do |debate|
+      - if (debate.is_a?(Array) and (debate.size == 1) and (debate.first.is_a?(OralAnswer) or debate.first.instance_of?(ParentDebate)) )
+        - the_debate = debate.first
+        - if debate.first.is_a?(OralAnswer)
+          - if the_debate.about
+            %h3.debates_about= the_debate.about.full_name
+          %ul.debate_list
+            %li= link_to_recent_debate(the_debate, true)
+        - else
+          %h3.debates_about= the_debate.name
+          %ul.debate_list
+            %li= link_to_recent_debate(the_debate, true)
+      - elsif (debate.is_a? Array)
+        - debates = debate
+        %h3.debates_about
+          - if debates.first.is_a? OralAnswer
+            = debates.first.about ? debates.first.about.full_name : 'Other'
+          - else
+            = debates.first.name
+        %ul.debate_list
+          - if debates.first.is_a?(BillDebate)
+            - debates.each do |d|
+              %li= link_to_recent_debate(d, true)
+          - else
+            - debates.sort_by(&:date).each do |d|
+              %li= link_to_recent_debate(d, true)
+      - else
+        %li= link_to_recent_debate debate, true
+.divider3

@@ -1,0 +1,45 @@
+- @title = "House of Representatives debates: Aotearoa New Zealand Parliament"
+- @no_heading = true
+#primarycontainer
+  #primarycontent
+    %h1 Recent Parliament Debates
+    #recent_debates
+      = render(:partial => 'recent_debates', :object => @all_recent)
+    %a{ :href=>"#primarycontainer" } Back to top of page
+#calendarcontent
+  %div
+    = calendar_nav Date::today
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 30)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 61)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 91)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 122)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 152)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 183)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 213)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 243)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 274)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 304)
+  %p= '&nbsp;'
+  %div
+    = calendar_nav(Date::today - 335)
+  %p= '&nbsp;'

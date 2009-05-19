@@ -1,0 +1,18 @@
+- @title = "Ministerial Portfolios: Aotearoa New Zealand's Parliament "
+- @javascript = 'portfolios_table'
+#normalcontent
+  %h1 Ministerial Portfolios
+  .divider3
+  .contentarea
+    %h3 Oral Question monthly activity since Nov 2005
+    .yui-skin-sam
+      #portfolios
+        %table#portfolio-table
+          %thead
+            %tr
+              %th='Portfolio'
+              %th='Questions per month graph'
+              %th{ :style=>"text-align: right;" }='Questions count*'
+          %tbody
+            = render(:partial => 'portfolio_group', :collection => @letter_to_portfolios.keys.sort, :locals => {:letter_to_portfolios => @letter_to_portfolios, :portfolios => @portfolios_with_debates})
+  %p * Count of oral questions to the Minister including supplementary questions

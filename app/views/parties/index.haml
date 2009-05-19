@@ -1,0 +1,21 @@
+#normalcontent
+  %h1 Political Parties
+  .contentarea
+    %table
+      %thead
+        %th
+        %th Party
+        %th{:style=>'text-align:center;'} MPs in 48th Parliament
+        %th{:style=>'text-align:center;'} MPs in 49th Parliament
+      %tbody
+        =render(:partial => 'party_summary', :collection => @parties, :locals => {:total_mps => @total_mps})
+        %tr
+          %td
+          %td &nbsp;
+          %td
+        %tr
+          %td
+          %td TOTAL MPS
+          %td.count= @total_mps_48
+          %td.count= @total_mps_49
+

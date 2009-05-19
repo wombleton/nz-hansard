@@ -1,0 +1,22 @@
+- @javascript = 'organisations_table'
+- @title = "Organisations mentioned by Parliament"
+%h1= @title
+%p
+  Listed are
+  = @organisations.size
+  organisations that have been mentioned in Parliament since November 2005 or have made submissions to select committees since September 2007.
+  This list may be incomplete. Please email any feedback about this list to:
+  %br
+  %img{ :alt=>"rob at they work for you dot co dot nz", :class=>"link", :src=>"images/e.png" }
+.yui-skin-sam
+  #organisations
+    %table#organisation-table
+      %thead
+        %tr
+          %th Organisation
+          %th Submission items
+          %th Debates mentioned in
+          %th Donations
+          %th Organisational category
+      %tbody
+        = render :partial => 'organisation', :collection => @organisations

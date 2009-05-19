@@ -1,0 +1,16 @@
+%ul.linklist
+  - debates_in_groups_by_name.each do |debates|
+    - debates = debates.reverse if (debates.size > 0 and (not debates.first.is_a? DebateAlone) and (not debates.first.about.is_a? Portfolio))
+    - many = debates.size > 1
+    - if many
+      %li
+        %span= debates.first.normalized_name
+        - debates.each { |d| d.name = d.name.sub(d.name.split('—')[0]+'—', '') }
+        - if debates.first.is_a?(SubDebate)
+          %ul.linklist
+            - debates.each do |debate|
+              %li= link_to_debate debate, show_status=true, show_date=true
+    - else
+      - if debates.first.is_a? SubDebate
+        - debates.each do |debate|
+          %li= link_to_debate debate, show_status=true, show_date=true
