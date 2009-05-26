@@ -9,8 +9,8 @@
   debate_date: 2009-05-20
   download_date: 2009-05-20
   written_status: Question
-  persisted_date: 
-  persisted: false
+  persisted_date: 2009-05-20
+  persisted: true
   downloaded: true
 - parliament_name: 6733 (2009). Chris Hipkins to the Minister of Education
   name: 2009/05/20//002_Chris-Hipkins-to-the-Minister-of-Education.htm
@@ -22,8 +22,8 @@
   debate_date: 2009-05-20
   download_date: 2009-05-20
   written_status: Question
-  persisted_date: 
-  persisted: false
+  persisted_date: 2009-05-20
+  persisted: true
   downloaded: true
 - parliament_name: 6732 (2009). Chris Hipkins to the Minister of Education
   name: 2009/05/20//003_Chris-Hipkins-to-the-Minister-of-Education.htm
@@ -35,8 +35,8 @@
   debate_date: 2009-05-20
   download_date: 2009-05-20
   written_status: Question
-  persisted_date: 
-  persisted: false
+  persisted_date: 2009-05-20
+  persisted: true
   downloaded: true
 - parliament_name: 6731 (2009). Sue Kedgley to the Minister of Health
   name: 2009/05/20//004_Sue-Kedgley-to-the-Minister-of-Health.htm
@@ -48,8 +48,8 @@
   debate_date: 2009-05-20
   download_date: 2009-05-20
   written_status: Question
-  persisted_date: 
-  persisted: false
+  persisted_date: 2009-05-20
+  persisted: true
   downloaded: true
 - parliament_name: 6730 (2009). Hon Sir Roger Douglas to the Minister for Senior Citizens
   name: 2009/05/20//005_Hon-Sir-Roger-Douglas-to-the-Minister-for.htm
@@ -61,8 +61,8 @@
   debate_date: 2009-05-20
   download_date: 2009-05-20
   written_status: Question
-  persisted_date: 
-  persisted: false
+  persisted_date: 2009-05-20
+  persisted: true
   downloaded: true
 - parliament_name: 6729 (2009). Brendon Burns to the Minister of Broadcasting
   name: 2009/05/20//006_Brendon-Burns-to-the-Minister-of-Broadcasting.htm
@@ -73,6 +73,19 @@
   oral_answer: 
   debate_date: 2009-05-20
   download_date: 2009-05-20
+  written_status: Question
+  persisted_date: 2009-05-20
+  persisted: true
+  downloaded: true
+- parliament_name: 6730 (2009). Hon Sir Roger Douglas to the Minister of Transport
+  name: 2009/05/20//007_Hon-Sir-Roger-Douglas-to-the-Minister-of.htm
+  publication_status: W
+  index_on_date: 7
+  file_name: 2009/05/20/Question/QWA_06730_2009-6730-2009-Hon-Sir-Roger-Douglas-to-the-Minister-of.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/f/7/6/QWA_06730_2009-6730-2009-Hon-Sir-Roger-Douglas-to-the-Minister-of.htm
+  oral_answer: 
+  debate_date: 2009-05-20
+  download_date: 2009-05-26
   written_status: Question
   persisted_date: 
   persisted: false
