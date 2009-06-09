@@ -1,2 +1,0 @@
-class ClauseSubParagraph < ClauseModel
-end

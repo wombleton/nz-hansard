@@ -1,3 +1,0 @@
-class SubsAnswer < Answer
-
-end

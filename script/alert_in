@@ -1,9 +1,0 @@
-#!/bin/bash
-
-export RAILS_ENV=production
-
-LOC=`dirname $0`
-
-$LOC/runner 'ParliamentAlertReceiver.receive(STDIN.read)'
-
-

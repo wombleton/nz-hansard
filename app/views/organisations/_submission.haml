@@ -1,9 +1,0 @@
-%tr
-  %td
-    - if business_item = submission.business_item
-      = link_to_business_item business_item
-    - else
-      = submission.business_item_name
-  %td
-    = link_to submission.submitter_name, submission.evidence_url
-

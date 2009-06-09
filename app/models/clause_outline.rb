@@ -1,2 +1,0 @@
-class ClauseOutline < ClauseModel
-end

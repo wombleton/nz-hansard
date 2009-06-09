@@ -1,3 +1,0 @@
-class SubsQuestion < Question
-
-end

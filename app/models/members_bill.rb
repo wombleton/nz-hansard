@@ -1,3 +1,0 @@
-class MembersBill < Bill
-
-end

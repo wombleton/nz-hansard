@@ -1,2 +1,0 @@
-class ContinueIntervention < Contribution
-end

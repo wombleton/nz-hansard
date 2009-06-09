@@ -1,2 +1,0 @@
-class ClauseAlone < ClauseModel
-end

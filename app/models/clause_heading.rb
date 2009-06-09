@@ -1,2 +1,0 @@
-class ClauseHeading < ClauseModel
-end
