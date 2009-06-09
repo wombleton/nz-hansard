@@ -204,7 +204,7 @@
   debate_date: 2009-05-14
   download_date: 2009-05-15
   written_status: Question
-  persisted_date: 2009-05-20
+  persisted_date: 2009-05-27
   persisted: true
   downloaded: true
 - parliament_name: 6528 (2009). Su'a William Sio to the Minister of Local Government
@@ -282,7 +282,7 @@
   debate_date: 2009-05-14
   download_date: 2009-05-15
   written_status: Question
-  persisted_date: 2009-05-20
+  persisted_date: 2009-05-27
   persisted: true
   downloaded: true
 - parliament_name: 6522 (2009). Su'a William Sio to the Minister of Police (includes responsibility for Serious Fraud Office)
@@ -295,7 +295,7 @@
   debate_date: 2009-05-14
   download_date: 2009-05-15
   written_status: Question
-  persisted_date: 2009-05-20
+  persisted_date: 2009-05-27
   persisted: true
   downloaded: true
 - parliament_name: 6521 (2009). Su'a William Sio to the Minister of Police (includes responsibility for Serious Fraud Office)
@@ -308,7 +308,7 @@
   debate_date: 2009-05-14
   download_date: 2009-05-15
   written_status: Question
-  persisted_date: 2009-05-20
+  persisted_date: 2009-05-27
   persisted: true
   downloaded: true
 - parliament_name: 6520 (2009). Su'a William Sio to the Minister of Police (includes responsibility for Serious Fraud Office)
@@ -321,7 +321,7 @@
   debate_date: 2009-05-14
   download_date: 2009-05-15
   written_status: Question
-  persisted_date: 2009-05-20
+  persisted_date: 2009-05-27
   persisted: true
   downloaded: true
 - parliament_name: 6519 (2009). Dr Russel Norman to the Minister for the Environment
@@ -1140,6 +1140,994 @@
   debate_date: 2009-05-14
   download_date: 2009-05-26
   written_status: Question
+  persisted_date: 2009-05-27
+  persisted: true
+  downloaded: true
+- parliament_name: 6544 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//089_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 89
+  file_name: 2009/05/14/Reply/QWA_06544_2009-6544-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/e/8/QWA_06544_2009-6544-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6543 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//090_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 90
+  file_name: 2009/05/14/Reply/QWA_06543_2009-6543-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/b/c/7/QWA_06543_2009-6543-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6542 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//091_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 91
+  file_name: 2009/05/14/Reply/QWA_06542_2009-6542-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/6/0/2/QWA_06542_2009-6542-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6541 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//092_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 92
+  file_name: 2009/05/14/Reply/QWA_06541_2009-6541-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/d/e/4/QWA_06541_2009-6541-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6540 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//093_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 93
+  file_name: 2009/05/14/Reply/QWA_06540_2009-6540-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/8/7/1/QWA_06540_2009-6540-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6539 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//094_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 94
+  file_name: 2009/05/14/Reply/QWA_06539_2009-6539-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/e/1/QWA_06539_2009-6539-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6538 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//095_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 95
+  file_name: 2009/05/14/Reply/QWA_06538_2009-6538-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/d/c/QWA_06538_2009-6538-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6537 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//096_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 96
+  file_name: 2009/05/14/Reply/QWA_06537_2009-6537-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/8/e/QWA_06537_2009-6537-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6536 (2009). Grant Robertson to the Minister for Arts Culture and Heritage
+  name: 2009/05/14//097_Grant-Robertson-to-the-Minister-for-Arts.htm
+  publication_status: W
+  index_on_date: 97
+  file_name: 2009/05/14/Reply/QWA_06536_2009-6536-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/c/8/1/QWA_06536_2009-6536-2009-Grant-Robertson-to-the-Minister-for-Arts.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6535 (2009). Su'a William Sio to the Minister of Pacific Island Affairs
+  name: 2009/05/14//098_Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  publication_status: W
+  index_on_date: 98
+  file_name: 2009/05/14/Reply/QWA_06535_2009-6535-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/0/0/3/QWA_06535_2009-6535-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6534 (2009). Su'a William Sio to the Minister of Pacific Island Affairs
+  name: 2009/05/14//099_Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  publication_status: W
+  index_on_date: 99
+  file_name: 2009/05/14/Reply/QWA_06534_2009-6534-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/8/f/QWA_06534_2009-6534-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6533 (2009). Su'a William Sio to the Minister of Pacific Island Affairs
+  name: 2009/05/14//100_Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  publication_status: W
+  index_on_date: 100
+  file_name: 2009/05/14/Reply/QWA_06533_2009-6533-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/8/d/8/QWA_06533_2009-6533-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6532 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//101_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 101
+  file_name: 2009/05/14/Reply/QWA_06532_2009-6532-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/6/f/QWA_06532_2009-6532-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6531 (2009). Su'a William Sio to the Minister of Pacific Island Affairs
+  name: 2009/05/14//102_Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  publication_status: W
+  index_on_date: 102
+  file_name: 2009/05/14/Reply/QWA_06531_2009-6531-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/8/6/2/QWA_06531_2009-6531-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6530 (2009). Su'a William Sio to the Minister of Pacific Island Affairs
+  name: 2009/05/14//103_Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  publication_status: W
+  index_on_date: 103
+  file_name: 2009/05/14/Reply/QWA_06530_2009-6530-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/e/2/QWA_06530_2009-6530-2009-Su-a-William-Sio-to-the-Minister-of-Pacific.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6528 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//104_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 104
+  file_name: 2009/05/14/Reply/QWA_06528_2009-6528-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/7/3/8/QWA_06528_2009-6528-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6527 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//105_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 105
+  file_name: 2009/05/14/Reply/QWA_06527_2009-6527-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/e/4/QWA_06527_2009-6527-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6526 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//106_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 106
+  file_name: 2009/05/14/Reply/QWA_06526_2009-6526-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/0/1/QWA_06526_2009-6526-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6525 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//107_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 107
+  file_name: 2009/05/14/Reply/QWA_06525_2009-6525-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/1/a/5/QWA_06525_2009-6525-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6524 (2009). Su'a William Sio to the Minister of Local Government
+  name: 2009/05/14//108_Su-a-William-Sio-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 108
+  file_name: 2009/05/14/Reply/QWA_06524_2009-6524-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/d/a/6/QWA_06524_2009-6524-2009-Su-a-William-Sio-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6519 (2009). Dr Russel Norman to the Minister for the Environment
+  name: 2009/05/14//109_Dr-Russel-Norman-to-the-Minister-for-the.htm
+  publication_status: W
+  index_on_date: 109
+  file_name: 2009/05/14/Reply/QWA_06519_2009-6519-2009-Dr-Russel-Norman-to-the-Minister-for-the.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/b/1/1/QWA_06519_2009-6519-2009-Dr-Russel-Norman-to-the-Minister-for-the.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6518 (2009). Chris Hipkins to the Minister Responsible for Ministerial Services
+  name: 2009/05/14//110_Chris-Hipkins-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 110
+  file_name: 2009/05/14/Reply/QWA_06518_2009-6518-2009-Chris-Hipkins-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/4/e/QWA_06518_2009-6518-2009-Chris-Hipkins-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6517 (2009). Chris Hipkins to the Minister Responsible for Ministerial Services
+  name: 2009/05/14//111_Chris-Hipkins-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 111
+  file_name: 2009/05/14/Reply/QWA_06517_2009-6517-2009-Chris-Hipkins-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/9/2/QWA_06517_2009-6517-2009-Chris-Hipkins-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6516 (2009). Hon Pete Hodgson to the Associate Minister of Justice
+  name: 2009/05/14//112_Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  publication_status: W
+  index_on_date: 112
+  file_name: 2009/05/14/Reply/QWA_06516_2009-6516-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/4/4/7/QWA_06516_2009-6516-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6515 (2009). Hon Pete Hodgson to the Associate Minister of Justice
+  name: 2009/05/14//113_Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  publication_status: W
+  index_on_date: 113
+  file_name: 2009/05/14/Reply/QWA_06515_2009-6515-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/9/f/QWA_06515_2009-6515-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6514 (2009). Hon Pete Hodgson to the Associate Minister of Justice
+  name: 2009/05/14//114_Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  publication_status: W
+  index_on_date: 114
+  file_name: 2009/05/14/Reply/QWA_06514_2009-6514-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/a/b/QWA_06514_2009-6514-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6513 (2009). Hon Pete Hodgson to the Associate Minister of Justice
+  name: 2009/05/14//115_Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  publication_status: W
+  index_on_date: 115
+  file_name: 2009/05/14/Reply/QWA_06513_2009-6513-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/4/b/d/QWA_06513_2009-6513-2009-Hon-Pete-Hodgson-to-the-Associate-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6512 (2009). Hon Pete Hodgson to the Minister for Land Information
+  name: 2009/05/14//116_Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  publication_status: W
+  index_on_date: 116
+  file_name: 2009/05/14/Reply/QWA_06512_2009-6512-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/b/b/QWA_06512_2009-6512-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6511 (2009). Hon Pete Hodgson to the Minister for Land Information
+  name: 2009/05/14//117_Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  publication_status: W
+  index_on_date: 117
+  file_name: 2009/05/14/Reply/QWA_06511_2009-6511-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/f/8/0/QWA_06511_2009-6511-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6510 (2009). Hon Pete Hodgson to the Minister for Land Information
+  name: 2009/05/14//118_Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  publication_status: W
+  index_on_date: 118
+  file_name: 2009/05/14/Reply/QWA_06510_2009-6510-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/5/9/QWA_06510_2009-6510-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6509 (2009). Hon Pete Hodgson to the Minister for Land Information
+  name: 2009/05/14//119_Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  publication_status: W
+  index_on_date: 119
+  file_name: 2009/05/14/Reply/QWA_06509_2009-6509-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/0/7/3/QWA_06509_2009-6509-2009-Hon-Pete-Hodgson-to-the-Minister-for-Land.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6508 (2009). Hon Pete Hodgson to the Minister Responsible for Archives New Zealand
+  name: 2009/05/14//120_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 120
+  file_name: 2009/05/14/Reply/QWA_06508_2009-6508-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/c/b/QWA_06508_2009-6508-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6507 (2009). Hon Pete Hodgson to the Minister Responsible for Archives New Zealand
+  name: 2009/05/14//121_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 121
+  file_name: 2009/05/14/Reply/QWA_06507_2009-6507-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/c/e/QWA_06507_2009-6507-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6506 (2009). Hon Pete Hodgson to the Minister Responsible for Archives New Zealand
+  name: 2009/05/14//122_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 122
+  file_name: 2009/05/14/Reply/QWA_06506_2009-6506-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/0/5/7/QWA_06506_2009-6506-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6505 (2009). Hon Pete Hodgson to the Minister Responsible for Archives New Zealand
+  name: 2009/05/14//123_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 123
+  file_name: 2009/05/14/Reply/QWA_06505_2009-6505-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/7/7/1/QWA_06505_2009-6505-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6504 (2009). Hon Pete Hodgson to the Minister Responsible for the National Library
+  name: 2009/05/14//124_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 124
+  file_name: 2009/05/14/Reply/QWA_06504_2009-6504-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/6/5/QWA_06504_2009-6504-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6503 (2009). Hon Pete Hodgson to the Minister Responsible for the National Library
+  name: 2009/05/14//125_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 125
+  file_name: 2009/05/14/Reply/QWA_06503_2009-6503-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/7/3/5/QWA_06503_2009-6503-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6502 (2009). Hon Pete Hodgson to the Minister Responsible for the National Library
+  name: 2009/05/14//126_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 126
+  file_name: 2009/05/14/Reply/QWA_06502_2009-6502-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/9/c/QWA_06502_2009-6502-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6501 (2009). Hon Pete Hodgson to the Minister Responsible for the National Library
+  name: 2009/05/14//127_Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  publication_status: W
+  index_on_date: 127
+  file_name: 2009/05/14/Reply/QWA_06501_2009-6501-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/6/1/QWA_06501_2009-6501-2009-Hon-Pete-Hodgson-to-the-Minister-Responsible.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6500 (2009). Hon Pete Hodgson to the Minister of Internal Affairs
+  name: 2009/05/14//128_Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  publication_status: W
+  index_on_date: 128
+  file_name: 2009/05/14/Reply/QWA_06500_2009-6500-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/2/0/QWA_06500_2009-6500-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6499 (2009). Hon Pete Hodgson to the Minister of Internal Affairs
+  name: 2009/05/14//129_Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  publication_status: W
+  index_on_date: 129
+  file_name: 2009/05/14/Reply/QWA_06499_2009-6499-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/9/7/QWA_06499_2009-6499-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6498 (2009). Hon Pete Hodgson to the Minister of Internal Affairs
+  name: 2009/05/14//130_Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  publication_status: W
+  index_on_date: 130
+  file_name: 2009/05/14/Reply/QWA_06498_2009-6498-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/a/b/QWA_06498_2009-6498-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6497 (2009). Hon Pete Hodgson to the Minister of Internal Affairs
+  name: 2009/05/14//131_Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  publication_status: W
+  index_on_date: 131
+  file_name: 2009/05/14/Reply/QWA_06497_2009-6497-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/f/7/QWA_06497_2009-6497-2009-Hon-Pete-Hodgson-to-the-Minister-of-Internal.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6496 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//132_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 132
+  file_name: 2009/05/14/Reply/QWA_06496_2009-6496-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/b/d/9/QWA_06496_2009-6496-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6495 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//133_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 133
+  file_name: 2009/05/14/Reply/QWA_06495_2009-6495-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/a/c/QWA_06495_2009-6495-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6494 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//134_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 134
+  file_name: 2009/05/14/Reply/QWA_06494_2009-6494-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/b/c/f/QWA_06494_2009-6494-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6493 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//135_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 135
+  file_name: 2009/05/14/Reply/QWA_06493_2009-6493-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/8/2/QWA_06493_2009-6493-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6492 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//136_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 136
+  file_name: 2009/05/14/Reply/QWA_06492_2009-6492-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/9/5/QWA_06492_2009-6492-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6491 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//137_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 137
+  file_name: 2009/05/14/Reply/QWA_06491_2009-6491-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/1/b/QWA_06491_2009-6491-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6490 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//138_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 138
+  file_name: 2009/05/14/Reply/QWA_06490_2009-6490-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/6/3/QWA_06490_2009-6490-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6489 (2009). Hon Pete Hodgson to the Prime Minister
+  name: 2009/05/14//139_Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  publication_status: W
+  index_on_date: 139
+  file_name: 2009/05/14/Reply/QWA_06489_2009-6489-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/8/1/9/QWA_06489_2009-6489-2009-Hon-Pete-Hodgson-to-the-Prime-Minister.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6488 (2009). Dr Russel Norman to the Minister for the Environment
+  name: 2009/05/14//140_Dr-Russel-Norman-to-the-Minister-for-the.htm
+  publication_status: W
+  index_on_date: 140
+  file_name: 2009/05/14/Reply/QWA_06488_2009-6488-2009-Dr-Russel-Norman-to-the-Minister-for-the.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/f/7/QWA_06488_2009-6488-2009-Dr-Russel-Norman-to-the-Minister-for-the.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6487 (2009). Stuart Nash to the Minister of Finance
+  name: 2009/05/14//141_Stuart-Nash-to-the-Minister-of-Finance.htm
+  publication_status: W
+  index_on_date: 141
+  file_name: 2009/05/14/Reply/QWA_06487_2009-6487-2009-Stuart-Nash-to-the-Minister-of-Finance.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/2/4/5/QWA_06487_2009-6487-2009-Stuart-Nash-to-the-Minister-of-Finance.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6486 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//142_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 142
+  file_name: 2009/05/14/Reply/QWA_06486_2009-6486-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/1/b/c/QWA_06486_2009-6486-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6485 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//143_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 143
+  file_name: 2009/05/14/Reply/QWA_06485_2009-6485-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/f/f/5/QWA_06485_2009-6485-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6484 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//144_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 144
+  file_name: 2009/05/14/Reply/QWA_06484_2009-6484-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/1/c/b/QWA_06484_2009-6484-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6483 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//145_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 145
+  file_name: 2009/05/14/Reply/QWA_06483_2009-6483-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/6/a/QWA_06483_2009-6483-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6482 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//146_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 146
+  file_name: 2009/05/14/Reply/QWA_06482_2009-6482-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/5/4/0/QWA_06482_2009-6482-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6481 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//147_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 147
+  file_name: 2009/05/14/Reply/QWA_06481_2009-6481-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/7/3/4/QWA_06481_2009-6481-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6480 (2009). H V Ross Robertson to the Minister of Commerce
+  name: 2009/05/14//148_H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  publication_status: W
+  index_on_date: 148
+  file_name: 2009/05/14/Reply/QWA_06480_2009-6480-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/0/4/f/QWA_06480_2009-6480-2009-H-V-Ross-Robertson-to-the-Minister-of-Commerce.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6479 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//149_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 149
+  file_name: 2009/05/14/Reply/QWA_06479_2009-6479-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/8/0/QWA_06479_2009-6479-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6478 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//150_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 150
+  file_name: 2009/05/14/Reply/QWA_06478_2009-6478-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/3/6/QWA_06478_2009-6478-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6477 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//151_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 151
+  file_name: 2009/05/14/Reply/QWA_06477_2009-6477-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/1/0/6/QWA_06477_2009-6477-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6476 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//152_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 152
+  file_name: 2009/05/14/Reply/QWA_06476_2009-6476-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/0/9/6/QWA_06476_2009-6476-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6475 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//153_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 153
+  file_name: 2009/05/14/Reply/QWA_06475_2009-6475-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/4/7/8/QWA_06475_2009-6475-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6474 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//154_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 154
+  file_name: 2009/05/14/Reply/QWA_06474_2009-6474-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/e/1/3/QWA_06474_2009-6474-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6473 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//155_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 155
+  file_name: 2009/05/14/Reply/QWA_06473_2009-6473-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/1/0/d/QWA_06473_2009-6473-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6472 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//156_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 156
+  file_name: 2009/05/14/Reply/QWA_06472_2009-6472-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/a/6/8/QWA_06472_2009-6472-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6471 (2009). H V Ross Robertson to the Minister for Small Business
+  name: 2009/05/14//157_H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  publication_status: W
+  index_on_date: 157
+  file_name: 2009/05/14/Reply/QWA_06471_2009-6471-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/9/4/a/QWA_06471_2009-6471-2009-H-V-Ross-Robertson-to-the-Minister-for-Small.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6470 (2009). H V Ross Robertson to the Minister of Local Government
+  name: 2009/05/14//158_H-V-Ross-Robertson-to-the-Minister-of-Local.htm
+  publication_status: W
+  index_on_date: 158
+  file_name: 2009/05/14/Reply/QWA_06470_2009-6470-2009-H-V-Ross-Robertson-to-the-Minister-of-Local.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/c/d/7/QWA_06470_2009-6470-2009-H-V-Ross-Robertson-to-the-Minister-of-Local.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6469 (2009). H V Ross Robertson to the Minister for Senior Citizens
+  name: 2009/05/14//159_H-V-Ross-Robertson-to-the-Minister-for-Senior.htm
+  publication_status: W
+  index_on_date: 159
+  file_name: 2009/05/14/Reply/QWA_06469_2009-6469-2009-H-V-Ross-Robertson-to-the-Minister-for-Senior.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/f/c/QWA_06469_2009-6469-2009-H-V-Ross-Robertson-to-the-Minister-for-Senior.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6468 (2009). Darien Fenton to the Minister of Labour
+  name: 2009/05/14//160_Darien-Fenton-to-the-Minister-of-Labour.htm
+  publication_status: W
+  index_on_date: 160
+  file_name: 2009/05/14/Reply/QWA_06468_2009-6468-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/c/4/6/QWA_06468_2009-6468-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6467 (2009). Darien Fenton to the Minister of Labour
+  name: 2009/05/14//161_Darien-Fenton-to-the-Minister-of-Labour.htm
+  publication_status: W
+  index_on_date: 161
+  file_name: 2009/05/14/Reply/QWA_06467_2009-6467-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/b/e/7/QWA_06467_2009-6467-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6466 (2009). Darien Fenton to the Associate Minister for ACC
+  name: 2009/05/14//162_Darien-Fenton-to-the-Associate-Minister-for.htm
+  publication_status: W
+  index_on_date: 162
+  file_name: 2009/05/14/Reply/QWA_06466_2009-6466-2009-Darien-Fenton-to-the-Associate-Minister-for.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/3/6/a/QWA_06466_2009-6466-2009-Darien-Fenton-to-the-Associate-Minister-for.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6465 (2009). Darien Fenton to the Minister of Labour
+  name: 2009/05/14//163_Darien-Fenton-to-the-Minister-of-Labour.htm
+  publication_status: W
+  index_on_date: 163
+  file_name: 2009/05/14/Reply/QWA_06465_2009-6465-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/6/3/a/QWA_06465_2009-6465-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
+  persisted_date: 
+  persisted: false
+  downloaded: true
+- parliament_name: 6464 (2009). Darien Fenton to the Minister of Labour
+  name: 2009/05/14//164_Darien-Fenton-to-the-Minister-of-Labour.htm
+  publication_status: W
+  index_on_date: 164
+  file_name: 2009/05/14/Reply/QWA_06464_2009-6464-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  parliament_url: http://www.parliament.nz/en-NZ/PB/Business/QWA/d/7/e/QWA_06464_2009-6464-2009-Darien-Fenton-to-the-Minister-of-Labour.htm
+  oral_answer: 
+  debate_date: 2009-05-14
+  download_date: 2009-06-10
+  written_status: Reply
   persisted_date: 
   persisted: false
   downloaded: true
